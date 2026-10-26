@@ -78,3 +78,8 @@ packages/
 /src/rendering/src/temp/!.gitignore
 /src/rendering/src/temp/!GraphQLFragmentTypes.json
 /src/rendering/src/temp/!GraphQLIntrospectionResult.json
+
+# local secrets
+.env
+.env.*
+!.env.example
